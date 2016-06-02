@@ -1,0 +1,23 @@
+<template name="navigation">
+    <div class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="/" class="navbar-brand">Iford Blog</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul>
+                    <li><a href="{{pathFor route='home'}}">Home</a></li>
+                    <li><a href="{{pathFor route='blog'}}">Blog</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                {{#if currentUser}}
+                    <li><a href="#" class="logout">Logout</a></li>
+                {{else}}
+                    <li><a href="{{pathFor route='register'}}">Register</a></li>
+                    <li><a href="{{pathFor route='login'}}">Login</a></li>
+                {{/if}}
+                </ul>
+            </div>
+        </div>
+    </div>
+</template>
