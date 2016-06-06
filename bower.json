@@ -1,0 +1,8 @@
+{
+  "name": "rocks",
+  "version": "0.0.1",
+  "dependencies": {
+    "pikaday-time": "latest"
+  },
+  "private": true
+}
