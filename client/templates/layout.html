@@ -1,0 +1,17 @@
+<template name='layout'>
+    <header>
+        {{> yield 'header'}}
+    </header>
+
+    <slideshow>
+        {{> yield 'slideshow'}}
+    </slideshow>
+
+    <main>
+        {{> yield}}
+    </main>
+
+    <footer>
+        {{> yield 'footer'}}
+    </footer>
+</template>
