@@ -1,9 +1,6 @@
 <template name="home">
     <h1>Three diverse Catholic communities adoping the Trinity in unity</h1>
-    <br />
-    <ol>
-        <li>Iford Parish of Saint Thomas More</li>
-        <li>Bournemouth Ordinariate Mission</li>
-        <li>Bournemouth Kerala Catholic Community</li>
-    </ol>
+    <slideshow>
+        {{> yield 'slideshow'}}
+    </slideshow>
 </template>

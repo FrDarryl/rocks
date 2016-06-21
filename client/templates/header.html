@@ -11,34 +11,37 @@
                 <a class="navbar-brand" href="/">IfordParish</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
+                <ul class="nav nav-pills">
                     <li>{{#linkTo route='home'}}Home{{/linkTo}}</li>
+                    <li>{{#linkTo route='about'}}About{{/linkTo}}</li>
                     <li>{{#linkTo route='blog'}}Blog{{/linkTo}}</li>
-                    <li>{{#linkTo route='events'}}Events{{/linkTo}}</li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li>{{#linkTo route='contact'}}Contact{{/linkTo}}</li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Link1</a></li>
-                            <li><a href="#">Link2</a></li>
-                            <li class="divider"></li>
-                            <li class="dropdown-header">Nav header</li>
-                            <li><a href="#">Link3</a></li>
-                            <li><a href="#">Link4</a></li>
+                        <a class="dropdown-toggle" data-toggle="dropdown">Events<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>{{#linkTo route='liturgyEvents'}}Liturgies{{/linkTo}}</li>
+                            <li>{{#linkTo route='meetingEvents'}}Meetings{{/linkTo}}</li>
+                            <li>{{#linkTo route='socialEvents'}}Socials{{/linkTo}}</li>
                         </ul>
                     </li>
-                </ul>
-                <ul class="nav navbar-nav navbar-right">
-                    {{#if currentUser}}
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown">Resources<span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>{{#linkTo route='newsletterResources'}}Newsletters{{/linkTo}}</li>
+                            <li>{{#linkTo route='meetingResources'}}Meeting Agendae/Minutes{{/linkTo}}</li>
+                            <li>{{#linkTo route='musicResources'}}Music{{/linkTo}}</li>
+                            <li>{{#linkTo route='rotaResources'}}Rotas{{/linkTo}}</li>
+                        </ul>
+                    </li>
+                    <li>{{#linkTo route='search'}}Search{{/linkTo}}</li>
+                  {{#if currentUser}}
                     <li><a href="#" class="logout">Logout</a></li>
-                    {{else}}
+                  {{else}}
                     <li>{{#linkTo route='register'}}Register{{/linkTo}}</li>
                     <li>{{#linkTo route='login'}}Login{{/linkTo}}</li>
-                    {{/if}}
+                  {{/if}}
                 </ul>
-            </div><!--/.nav-collapse -->
+            </div>
         </div>
     </nav>
 </template>

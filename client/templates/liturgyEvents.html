@@ -1,0 +1,28 @@
+<template name="liturgyEvents">
+    <h1>Regularly Occurring Liturgies</h1>
+    <br />
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Weeks</th>
+                <th>Start</th>
+                <th>Rite</th>
+                <th>Language</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#each liturgies}}
+            <tr>
+                <td>{{dow}}</td>
+                <td>{{weeks}}</td>
+                <td>{{startTime}}</td>
+                <td>{{rite}}</td>
+                <td>{{language}}</td>
+                <td>{{description}}</td>
+            </tr>
+            {{/each}}
+        </tbody>
+    </table>
+</template>
