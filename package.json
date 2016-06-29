@@ -1,11 +1,10 @@
 {
-  "name": "rocks",
+  "name": "app",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0",
-    "moment": "^2.13.0"
+    "meteor-node-stubs": "~0.2.0"
   }
 }

@@ -34,18 +34,18 @@ form {
     position: relative;
 }
 
+iframe {
+    border: none;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    /*max-width: 100%;
+    resize: both;*/
+}
+
 ul {
     margin: 0;
     padding: 0;
-}
-
-.delete {
-    float: right;
-    font-weight: bold;
-    background: none;
-    font-size: 1em;
-    border: none;
-    position: relative;
 }
 
 li {
@@ -71,23 +71,24 @@ li.private {
     border-color: #ddd;
 }
 
-.toggle-private {
-    margin-left: 5px;
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
 }
 
-@media (max-width: 600px) {
-    li {
-        padding: 12px 15px;
-    }
+.content {
+    padding-top: 10px;
+}
 
-    .search {
-        width: 150px;
-        clear: both;
-    }
 
-    .new-task input {
-        padding-bottom: 5px;
-    }
+.delete {
+    float: right;
+    font-weight: bold;
+    background: none;
+    font-size: 1em;
+    border: none;
+    position: relative;
 }
 
 .navbar-brand > img {
@@ -111,8 +112,21 @@ li.private {
     outline: 0;
 }
 
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-    width: 100%;
-    margin: auto;
+.toggle-private {
+    margin-left: 5px;
+}
+
+@media (max-width: 600px) {
+    li {
+        padding: 12px 15px;
+    }
+
+    .search {
+        width: 150px;
+        clear: both;
+    }
+
+    .new-task input {
+        padding-bottom: 5px;
+    }
 }

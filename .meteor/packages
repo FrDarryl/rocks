@@ -17,7 +17,6 @@ standard-minifier-js    # JS minifier run for production mode
 es5-shim                # ECMAScript 5 compatibility for older browsers.
 ecmascript              # Enable ECMAScript2015+ syntax in app code
 
-insecure                # Allow all DB writes from clients (for prototyping)
 aldeed:collection2
 fullcalendar:fullcalendar
 momentjs:moment
@@ -41,3 +40,9 @@ aldeed:autoform
 mikkelking:say-cheese
 matb33:bootstrap-full
 mizzao:bootstrap-3
+twbs:bootstrap
+
+
+npm-container
+insecure
+alanning:roles
