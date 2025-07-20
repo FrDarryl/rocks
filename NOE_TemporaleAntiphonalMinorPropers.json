@@ -1,6 +1,6 @@
 [
 {
-"PropersID":"First Sunday of Advent",
+"TemporalePropersID":"First Sunday of Advent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -27,7 +27,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Monday",
+"TemporalePropersID":"First Week of Advent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -54,7 +54,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Tuesday",
+"TemporalePropersID":"First Week of Advent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -81,7 +81,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Wednesday",
+"TemporalePropersID":"First Week of Advent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -108,7 +108,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Thursday",
+"TemporalePropersID":"First Week of Advent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -135,7 +135,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Friday",
+"TemporalePropersID":"First Week of Advent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -161,7 +161,7 @@
 ]
 },
 {
-"PropersID":"First Week of Advent:Saturday",
+"TemporalePropersID":"First Week of Advent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -188,7 +188,7 @@
 ]
 },
 {
-"PropersID":"Second Sunday of Advent",
+"TemporalePropersID":"Second Sunday of Advent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -215,7 +215,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Monday",
+"TemporalePropersID":"Second Week of Advent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -242,7 +242,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Tuesday",
+"TemporalePropersID":"Second Week of Advent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -268,7 +268,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Wednesday",
+"TemporalePropersID":"Second Week of Advent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -294,7 +294,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Thursday",
+"TemporalePropersID":"Second Week of Advent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -320,7 +320,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Friday",
+"TemporalePropersID":"Second Week of Advent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -345,7 +345,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Advent:Saturday",
+"TemporalePropersID":"Second Week of Advent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -371,7 +371,7 @@
 ]
 },
 {
-"PropersID":"Third Sunday of Advent",
+"TemporalePropersID":"Third Sunday of Advent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -398,7 +398,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Advent:Monday",
+"TemporalePropersID":"Third Week of Advent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -425,7 +425,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Advent:Tuesday",
+"TemporalePropersID":"Third Week of Advent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -451,7 +451,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Advent:Wednesday",
+"TemporalePropersID":"Third Week of Advent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -477,7 +477,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Advent:Thursday",
+"TemporalePropersID":"Third Week of Advent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -503,7 +503,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Advent:Friday",
+"TemporalePropersID":"Third Week of Advent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -528,7 +528,7 @@
 ]
 },
 {
-"PropersID":"Fourth Sunday of Advent",
+"TemporalePropersID":"Fourth Sunday of Advent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -555,7 +555,7 @@
 ]
 },
 {
-"PropersID":"December 17",
+"TemporalePropersID":"December 17",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -582,7 +582,7 @@
 ]
 },
 {
-"PropersID":"December 18",
+"TemporalePropersID":"December 18",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -607,7 +607,7 @@
 ]
 },
 {
-"PropersID":"December 19",
+"TemporalePropersID":"December 19",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -633,7 +633,7 @@
 ]
 },
 {
-"PropersID":"December 20",
+"TemporalePropersID":"December 20",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -659,7 +659,7 @@
 ]
 },
 {
-"PropersID":"December 21",
+"TemporalePropersID":"December 21",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -686,7 +686,7 @@
 ]
 },
 {
-"PropersID":"December 22",
+"TemporalePropersID":"December 22",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -712,7 +712,7 @@
 ]
 },
 {
-"PropersID":"December 23",
+"TemporalePropersID":"December 23",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -738,7 +738,7 @@
 ]
 },
 {
-"PropersID":"December 24",
+"TemporalePropersID":"December 24",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -764,7 +764,7 @@
 ]
 },
 {
-"PropersID":"Nativity of the Lord:Vigil",
+"TemporalePropersID":"Nativity of the Lord:Vigil",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -791,7 +791,7 @@
 ]
 },
 {
-"PropersID":"Nativity of the Lord:Midnight",
+"TemporalePropersID":"Nativity of the Lord:Midnight",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -818,7 +818,7 @@
 ]
 },
 {
-"PropersID":"Nativity of the Lord:Dawn",
+"TemporalePropersID":"Nativity of the Lord:Dawn",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -844,7 +844,7 @@
 ]
 },
 {
-"PropersID":"Nativity of the Lord:Day",
+"TemporalePropersID":"Nativity of the Lord:Day",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -870,7 +870,7 @@
 ]
 },
 {
-"PropersID":"The Holy Family of Jesus, Mary and Joseph",
+"TemporalePropersID":"The Holy Family of Jesus, Mary and Joseph",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -897,7 +897,7 @@
 ]
 },
 {
-"PropersID":"December 29 Fifth Day within the Octave of Christmas",
+"TemporalePropersID":"December 29 Fifth Day within the Octave of Christmas",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -923,7 +923,7 @@
 ]
 },
 {
-"PropersID":"December 30",
+"TemporalePropersID":"December 30",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -950,7 +950,7 @@
 ]
 },
 {
-"PropersID":"December 31",
+"TemporalePropersID":"December 31",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -975,7 +975,7 @@
 ]
 },
 {
-"PropersID":"01/01: Mary, Mother of God",
+"TemporalePropersID":"01/01: Mary, Mother of God",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1001,7 +1001,7 @@
 ]
 },
 {
-"PropersID":"Second Sunday of Christmastide ",
+"TemporalePropersID":"Second Sunday of Christmastide ",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1028,7 +1028,7 @@
 ]
 },
 {
-"PropersID":"Epiphany of the Lord:Vigil",
+"TemporalePropersID":"Epiphany of the Lord:Vigil",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1055,7 +1055,7 @@
 ]
 },
 {
-"PropersID":"Epiphany of the Lord:Day",
+"TemporalePropersID":"Epiphany of the Lord:Day",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1082,7 +1082,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Monday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1107,7 +1107,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Tuesday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1134,7 +1134,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Wednesday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1160,7 +1160,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Thursday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1186,7 +1186,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Friday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1213,7 +1213,7 @@
 ]
 },
 {
-"PropersID":"Weekdays of ChristmasTide:Saturday",
+"TemporalePropersID":"Weekdays of ChristmasTide:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1239,7 +1239,7 @@
 ]
 },
 {
-"PropersID":"Baptism of the Lord",
+"TemporalePropersID":"Baptism of the Lord",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1266,7 +1266,7 @@
 ]
 },
 {
-"PropersID":"Ash Wednesday",
+"TemporalePropersID":"Ash Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1297,7 +1297,7 @@
 ]
 },
 {
-"PropersID":"Thursday after Ash Wednesday",
+"TemporalePropersID":"Thursday after Ash Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1328,7 +1328,7 @@
 ]
 },
 {
-"PropersID":"Friday after Ash Wednesday",
+"TemporalePropersID":"Friday after Ash Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1359,7 +1359,7 @@
 ]
 },
 {
-"PropersID":"Saturday After Ash Wednesday",
+"TemporalePropersID":"Saturday After Ash Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1390,7 +1390,7 @@
 ]
 },
 {
-"PropersID":"First Sunday of Lent",
+"TemporalePropersID":"First Sunday of Lent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1421,7 +1421,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Monday",
+"TemporalePropersID":"First Week of Lent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1452,7 +1452,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Tuesday",
+"TemporalePropersID":"First Week of Lent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1483,7 +1483,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Wednesday",
+"TemporalePropersID":"First Week of Lent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1514,7 +1514,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Thursday",
+"TemporalePropersID":"First Week of Lent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1545,7 +1545,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Friday",
+"TemporalePropersID":"First Week of Lent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1576,7 +1576,7 @@
 ]
 },
 {
-"PropersID":"First Week of Lent:Saturday",
+"TemporalePropersID":"First Week of Lent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1607,7 +1607,7 @@
 ]
 },
 {
-"PropersID":"Second Sunday of Lent",
+"TemporalePropersID":"Second Sunday of Lent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1637,7 +1637,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Monday",
+"TemporalePropersID":"Second Week of Lent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1668,7 +1668,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Tuesday",
+"TemporalePropersID":"Second Week of Lent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1699,7 +1699,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Wednesday",
+"TemporalePropersID":"Second Week of Lent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1730,7 +1730,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Thursday",
+"TemporalePropersID":"Second Week of Lent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1761,7 +1761,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Friday",
+"TemporalePropersID":"Second Week of Lent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1792,7 +1792,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Lent:Saturday",
+"TemporalePropersID":"Second Week of Lent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1823,7 +1823,7 @@
 ]
 },
 {
-"PropersID":"Third Sunday of Lent",
+"TemporalePropersID":"Third Sunday of Lent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1853,7 +1853,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Monday",
+"TemporalePropersID":"Third Week of Lent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1884,7 +1884,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Tuesday",
+"TemporalePropersID":"Third Week of Lent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1915,7 +1915,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Wednesday",
+"TemporalePropersID":"Third Week of Lent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1946,7 +1946,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Thursday",
+"TemporalePropersID":"Third Week of Lent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -1976,7 +1976,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Friday",
+"TemporalePropersID":"Third Week of Lent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2007,7 +2007,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Lent:Saturday",
+"TemporalePropersID":"Third Week of Lent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2038,7 +2038,7 @@
 ]
 },
 {
-"PropersID":"Fourth Sunday of Lent",
+"TemporalePropersID":"Fourth Sunday of Lent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2068,7 +2068,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Monday",
+"TemporalePropersID":"Fourth Week of Lent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2099,7 +2099,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Tuesday",
+"TemporalePropersID":"Fourth Week of Lent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2130,7 +2130,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Wednesday",
+"TemporalePropersID":"Fourth Week of Lent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2161,7 +2161,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Thursday",
+"TemporalePropersID":"Fourth Week of Lent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2192,7 +2192,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Friday",
+"TemporalePropersID":"Fourth Week of Lent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2223,7 +2223,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Lent:Saturday",
+"TemporalePropersID":"Fourth Week of Lent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2254,7 +2254,7 @@
 ]
 },
 {
-"PropersID":"Fifth Sunday of Lent",
+"TemporalePropersID":"Fifth Sunday of Lent",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2284,7 +2284,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Monday",
+"TemporalePropersID":"Fifth Week of Lent:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2314,7 +2314,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Tuesday",
+"TemporalePropersID":"Fifth Week of Lent:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2345,7 +2345,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Wednesday",
+"TemporalePropersID":"Fifth Week of Lent:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2376,7 +2376,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Thursday",
+"TemporalePropersID":"Fifth Week of Lent:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2407,7 +2407,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Friday",
+"TemporalePropersID":"Fifth Week of Lent:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2438,7 +2438,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Lent:Saturday",
+"TemporalePropersID":"Fifth Week of Lent:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2469,7 +2469,7 @@
 ]
 },
 {
-"PropersID":"Palm Sunday",
+"TemporalePropersID":"Palm Sunday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2500,7 +2500,7 @@
 ]
 },
 {
-"PropersID":"Monday of Holy Week",
+"TemporalePropersID":"Monday of Holy Week",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2531,7 +2531,7 @@
 ]
 },
 {
-"PropersID":"Tuesday of Holy Week",
+"TemporalePropersID":"Tuesday of Holy Week",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2562,7 +2562,7 @@
 ]
 },
 {
-"PropersID":"Wednesday of Holy Week",
+"TemporalePropersID":"Wednesday of Holy Week",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2593,7 +2593,7 @@
 ]
 },
 {
-"PropersID":"Maundy Thursday",
+"TemporalePropersID":"Maundy Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2620,7 +2620,7 @@
 ]
 },
 {
-"PropersID":"Good Friday",
+"TemporalePropersID":"Good Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Collect",
@@ -2657,7 +2657,7 @@
 ]
 },
 {
-"PropersID":"Tuesday within the Octave of Easter",
+"TemporalePropersID":"Tuesday within the Octave of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2683,7 +2683,7 @@
 ]
 },
 {
-"PropersID":"Wednesday within the Octave of Easter",
+"TemporalePropersID":"Wednesday within the Octave of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2709,7 +2709,7 @@
 ]
 },
 {
-"PropersID":"Thursday within the Octave of Easter",
+"TemporalePropersID":"Thursday within the Octave of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2735,7 +2735,7 @@
 ]
 },
 {
-"PropersID":"Friday within the Octave of Easter",
+"TemporalePropersID":"Friday within the Octave of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2762,7 +2762,7 @@
 ]
 },
 {
-"PropersID":"Saturday within the Octave of Easter",
+"TemporalePropersID":"Saturday within the Octave of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2788,7 +2788,7 @@
 ]
 },
 {
-"PropersID":"Second Sunday of Easter",
+"TemporalePropersID":"Second Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2815,7 +2815,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Monday",
+"TemporalePropersID":"Second Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2841,7 +2841,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Tuesday",
+"TemporalePropersID":"Second Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2867,7 +2867,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Wednesday",
+"TemporalePropersID":"Second Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2894,7 +2894,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Thursday",
+"TemporalePropersID":"Second Week of Easter:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2920,7 +2920,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Friday",
+"TemporalePropersID":"Second Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2946,7 +2946,7 @@
 ]
 },
 {
-"PropersID":"Second Week of Easter:Saturday",
+"TemporalePropersID":"Second Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2972,7 +2972,7 @@
 ]
 },
 {
-"PropersID":"Third Sunday of Easter",
+"TemporalePropersID":"Third Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -2999,7 +2999,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Monday",
+"TemporalePropersID":"Third Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3024,7 +3024,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Tuesday",
+"TemporalePropersID":"Third Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3050,7 +3050,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Wednesday",
+"TemporalePropersID":"Third Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3076,7 +3076,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Thursday",
+"TemporalePropersID":"Third Week of Easter:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3102,7 +3102,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Friday",
+"TemporalePropersID":"Third Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3128,7 +3128,7 @@
 ]
 },
 {
-"PropersID":"Third Week of Easter:Saturday",
+"TemporalePropersID":"Third Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3154,7 +3154,7 @@
 ]
 },
 {
-"PropersID":"Fourth Sunday of Easter",
+"TemporalePropersID":"Fourth Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3180,7 +3180,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Monday",
+"TemporalePropersID":"Fourth Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3206,7 +3206,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Tuesday",
+"TemporalePropersID":"Fourth Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3232,7 +3232,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Wednesday",
+"TemporalePropersID":"Fourth Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3263,7 +3263,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Thursday",
+"TemporalePropersID":"Fourth Week of Easter:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3289,7 +3289,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Friday",
+"TemporalePropersID":"Fourth Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3315,7 +3315,7 @@
 ]
 },
 {
-"PropersID":"Fourth Week of Easter:Saturday",
+"TemporalePropersID":"Fourth Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3341,7 +3341,7 @@
 ]
 },
 {
-"PropersID":"Fifth Sunday of Easter",
+"TemporalePropersID":"Fifth Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3368,7 +3368,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Monday",
+"TemporalePropersID":"Fifth Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3393,7 +3393,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Tuesday",
+"TemporalePropersID":"Fifth Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3419,7 +3419,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Wednesday",
+"TemporalePropersID":"Fifth Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3445,7 +3445,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Thursday",
+"TemporalePropersID":"Fifth Week of Easter:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3471,7 +3471,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Friday",
+"TemporalePropersID":"Fifth Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3497,7 +3497,7 @@
 ]
 },
 {
-"PropersID":"Fifth Week of Easter:Saturday",
+"TemporalePropersID":"Fifth Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3523,7 +3523,7 @@
 ]
 },
 {
-"PropersID":"Sixth Sunday of Easter",
+"TemporalePropersID":"Sixth Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3550,7 +3550,7 @@
 ]
 },
 {
-"PropersID":"Sixth Week of Easter:Monday",
+"TemporalePropersID":"Sixth Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3576,7 +3576,7 @@
 ]
 },
 {
-"PropersID":"Sixth Week of Easter:Tuesday",
+"TemporalePropersID":"Sixth Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3602,7 +3602,7 @@
 ]
 },
 {
-"PropersID":"Sixth Week of Easter:Wednesday",
+"TemporalePropersID":"Sixth Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3629,7 +3629,7 @@
 ]
 },
 {
-"PropersID":"Ascension of the Lord",
+"TemporalePropersID":"Ascension of the Lord",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3655,7 +3655,7 @@
 ]
 },
 {
-"PropersID":"Sixth Week of Easter:Friday",
+"TemporalePropersID":"Sixth Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3681,7 +3681,7 @@
 ]
 },
 {
-"PropersID":"Sixth Week of Easter:Saturday",
+"TemporalePropersID":"Sixth Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3707,7 +3707,7 @@
 ]
 },
 {
-"PropersID":"Seventh Sunday of Easter",
+"TemporalePropersID":"Seventh Sunday of Easter",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3734,7 +3734,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Monday",
+"TemporalePropersID":"Seventh Week of Easter:Monday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3761,7 +3761,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Tuesday",
+"TemporalePropersID":"Seventh Week of Easter:Tuesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3787,7 +3787,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Wednesday",
+"TemporalePropersID":"Seventh Week of Easter:Wednesday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3813,7 +3813,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Thursday",
+"TemporalePropersID":"Seventh Week of Easter:Thursday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3839,7 +3839,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Friday",
+"TemporalePropersID":"Seventh Week of Easter:Friday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3865,7 +3865,7 @@
 ]
 },
 {
-"PropersID":"Seventh Week of Easter:Saturday",
+"TemporalePropersID":"Seventh Week of Easter:Saturday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3891,7 +3891,7 @@
 ]
 },
 {
-"PropersID":"Pentecost Sunday",
+"TemporalePropersID":"Pentecost Sunday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3917,7 +3917,7 @@
 ]
 },
 {
-"PropersID":"Second Sunday in Ordinary Time",
+"TemporalePropersID":"Second Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3944,7 +3944,7 @@
 ]
 },
 {
-"PropersID":"Third Sunday in Ordinary Time",
+"TemporalePropersID":"Third Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3971,7 +3971,7 @@
 ]
 },
 {
-"PropersID":"Fourth Sunday in Ordinary Time",
+"TemporalePropersID":"Fourth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -3998,7 +3998,7 @@
 ]
 },
 {
-"PropersID":"Fifth Sunday in Ordinary Time",
+"TemporalePropersID":"Fifth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4025,7 +4025,7 @@
 ]
 },
 {
-"PropersID":"Sixth Sunday in Ordinary Time",
+"TemporalePropersID":"Sixth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4052,7 +4052,7 @@
 ]
 },
 {
-"PropersID":"Seventh Sunday in Ordinary Time",
+"TemporalePropersID":"Seventh Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4079,7 +4079,7 @@
 ]
 },
 {
-"PropersID":"Eighth Sunday in Ordinary Time",
+"TemporalePropersID":"Eighth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4106,7 +4106,7 @@
 ]
 },
 {
-"PropersID":"Ninth Sunday in Ordinary Time",
+"TemporalePropersID":"Ninth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4133,7 +4133,7 @@
 ]
 },
 {
-"PropersID":"Tenth Sunday in Ordinary Time",
+"TemporalePropersID":"Tenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4160,7 +4160,7 @@
 ]
 },
 {
-"PropersID":"Eleventh Sunday in Ordinary Time",
+"TemporalePropersID":"Eleventh Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4187,7 +4187,7 @@
 ]
 },
 {
-"PropersID":"Twelfth Sunday in Ordinary Time",
+"TemporalePropersID":"Twelfth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4214,7 +4214,7 @@
 ]
 },
 {
-"PropersID":"Thirteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Thirteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4240,7 +4240,7 @@
 ]
 },
 {
-"PropersID":"Fourteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Fourteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4267,7 +4267,7 @@
 ]
 },
 {
-"PropersID":"Fifteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Fifteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4294,7 +4294,7 @@
 ]
 },
 {
-"PropersID":"Sixteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Sixteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4321,7 +4321,7 @@
 ]
 },
 {
-"PropersID":"Seventeenth Sunday in Ordinary Time",
+"TemporalePropersID":"Seventeenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4348,7 +4348,7 @@
 ]
 },
 {
-"PropersID":"Eighteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Eighteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4375,7 +4375,7 @@
 ]
 },
 {
-"PropersID":"Nineteenth Sunday in Ordinary Time",
+"TemporalePropersID":"Nineteenth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4402,7 +4402,7 @@
 ]
 },
 {
-"PropersID":"Twentieth Sunday in Ordinary Time",
+"TemporalePropersID":"Twentieth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4429,7 +4429,7 @@
 ]
 },
 {
-"PropersID":"Twenty-First Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-First Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4456,7 +4456,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Second Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Second Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4483,7 +4483,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Third Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Third Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4510,7 +4510,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Fourth Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Fourth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4537,7 +4537,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Fifth Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Fifth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4563,7 +4563,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Sixth Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Sixth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4590,7 +4590,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Seventh Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Seventh Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4621,7 +4621,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Eighth Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Eighth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4648,7 +4648,7 @@
 ]
 },
 {
-"PropersID":"Twenty-Ninth Sunday in Ordinary Time",
+"TemporalePropersID":"Twenty-Ninth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4675,7 +4675,7 @@
 ]
 },
 {
-"PropersID":"Thirtieth Sunday in Ordinary Time",
+"TemporalePropersID":"Thirtieth Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4702,7 +4702,7 @@
 ]
 },
 {
-"PropersID":"Thirty-First Sunday in Ordinary Time",
+"TemporalePropersID":"Thirty-First Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4729,7 +4729,7 @@
 ]
 },
 {
-"PropersID":"Thirty-Second Sunday in Ordinary Time",
+"TemporalePropersID":"Thirty-Second Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4756,7 +4756,7 @@
 ]
 },
 {
-"PropersID":"Thirty-Third Sunday in Ordinary Time",
+"TemporalePropersID":"Thirty-Third Sunday in Ordinary Time",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4783,7 +4783,7 @@
 ]
 },
 {
-"PropersID":"Christ the King",
+"TemporalePropersID":"Christ the King",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4810,7 +4810,7 @@
 ]
 },
 {
-"PropersID":"Trinity Sunday",
+"TemporalePropersID":"Trinity Sunday",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4836,7 +4836,7 @@
 ]
 },
 {
-"PropersID":"Corpus Christi",
+"TemporalePropersID":"Corpus Christi",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",
@@ -4863,7 +4863,7 @@
 ]
 },
 {
-"PropersID":"Most Sacred Heart of Jesus",
+"TemporalePropersID":"Most Sacred Heart of Jesus",
 "AntiphonalMinorPropers":[
 {
 "ProperType":"Entrance Antiphon",

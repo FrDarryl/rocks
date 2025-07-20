@@ -1,6 +1,6 @@
 [
 {
-"PropersID":"Ss Basil the Great and Gregory Nazianzen, Bishops, Doctors",
+"SanctoralePropersID":"Ss Basil the Great and Gregory Nazianzen, Bishops, Doctors",
 "PropersDate":"01/02",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -29,7 +29,7 @@
 ]
 },
 {
-"PropersID":"Most Holy Name of Jesus",
+"SanctoralePropersID":"Most Holy Name of Jesus",
 "PropersDate":"01/03",
 "AntiphonalMinorPropers":[
 {
@@ -57,7 +57,7 @@
 ]
 },
 {
-"PropersID":"St Elizabeth Ann Seton, Religious",
+"SanctoralePropersID":"St Elizabeth Ann Seton, Religious",
 "PropersDate":"01/04",
 "PropersNote":"USCCB,Memorial",
 "AntiphonalMinorPropers":[
@@ -86,7 +86,7 @@
 ]
 },
 {
-"PropersID":"St John Neumann, Bishop",
+"SanctoralePropersID":"St John Neumann, Bishop",
 "PropersDate":"01/05",
 "PropersNote":"USCCB,Memorial",
 "AntiphonalMinorPropers":[
@@ -115,7 +115,7 @@
 ]
 },
 {
-"PropersID":"St André Bessette, Religious",
+"SanctoralePropersID":"St André Bessette, Religious",
 "PropersDate":"01/06",
 "PropersNote":"USCCB",
 "CommonsID":"Holy Men and Women>For Religious",
@@ -127,7 +127,7 @@
 ]
 },
 {
-"PropersID":"St Raymond of Penyafort, Priest",
+"SanctoralePropersID":"St Raymond of Penyafort, Priest",
 "PropersDate":"01/07",
 "CommonsID":"Pastors>For One Pastor",
 "AntiphonalMinorPropers":[
@@ -138,7 +138,7 @@
 ]
 },
 {
-"PropersID":"St Hilary, Bishop, Doctor",
+"SanctoralePropersID":"St Hilary, Bishop, Doctor",
 "PropersDate":"01/13",
 "CommonsID":"Pastors>For a Bishop",
 "AntiphonalMinorPropers":[
@@ -149,7 +149,7 @@
 ]
 },
 {
-"PropersID":"St Anthony, Abbot",
+"SanctoralePropersID":"St Anthony, Abbot",
 "PropersDate":"01/17",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -178,7 +178,7 @@
 ]
 },
 {
-"PropersID":"St Fabian, Pope, Martyr",
+"SanctoralePropersID":"St Fabian, Pope, Martyr",
 "PropersDate":"01/20",
 "CommonsID":"Martyrs>Outside Easter Time>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Pope or for a Bishop",
@@ -190,7 +190,7 @@
 ]
 },
 {
-"PropersID":"St Sebastian, Martyr",
+"SanctoralePropersID":"St Sebastian, Martyr",
 "PropersDate":"01/20",
 "CommonsID":"Martyrs>>Outside Easter Time>For One Martyr",
 "AntiphonalMinorPropers":[
@@ -201,7 +201,7 @@
 ]
 },
 {
-"PropersID":"St Agnes, Virgin, Martyr",
+"SanctoralePropersID":"St Agnes, Virgin, Martyr",
 "PropersDate":"01/21",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For a Virgin Martyr",
@@ -214,7 +214,7 @@
 ]
 },
 {
-"PropersID":"St Vincent, Deacon, Martyr",
+"SanctoralePropersID":"St Vincent, Deacon, Martyr",
 "PropersDate":"01/23",
 "PropersNote":"USCCB",
 "CommonsID":"Martyrs>For One Martyr",
@@ -226,7 +226,7 @@
 ]
 },
 {
-"PropersID":"St Francis de Sales, Bishop, Doctor",
+"SanctoralePropersID":"St Francis de Sales, Bishop, Doctor",
 "PropersDate":"01/24",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For a Bishop",
@@ -246,7 +246,7 @@
 ]
 },
 {
-"PropersID":"Conversion of St Paul, Apostle",
+"SanctoralePropersID":"Conversion of St Paul, Apostle",
 "PropersDate":"01/25",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -275,7 +275,7 @@
 ]
 },
 {
-"PropersID":"Ss Timothy and Titus, Bishops",
+"SanctoralePropersID":"Ss Timothy and Titus, Bishops",
 "PropersDate":"01/26",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -304,7 +304,7 @@
 ]
 },
 {
-"PropersID":"St Angela Merici, Virgin",
+"SanctoralePropersID":"St Angela Merici, Virgin",
 "PropersDate":"01/27",
 "CommonsID":"Virgins>For One Virgin",
 "CommonsIDAlt":"Holy Men and Women>For Educators",
@@ -316,7 +316,7 @@
 ]
 },
 {
-"PropersID":"St Thomas Aquinas, Priest, Doctor",
+"SanctoralePropersID":"St Thomas Aquinas, Priest, Doctor",
 "PropersDate":"01/28",
 "PropersNote":"Memorial",
 "CommonsID":"Doctors",
@@ -328,7 +328,7 @@
 ]
 },
 {
-"PropersID":"St John Bosco, Priest",
+"SanctoralePropersID":"St John Bosco, Priest",
 "PropersDate":"01/31",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -341,7 +341,7 @@
 ]
 },
 {
-"PropersID":"Presentation of the Lord (Candlemas)",
+"SanctoralePropersID":"Presentation of the Lord (Candlemas)",
 "PropersDate":"02/02",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -370,7 +370,7 @@
 ]
 },
 {
-"PropersID":"St Blaise, Bishop, Martyr",
+"SanctoralePropersID":"St Blaise, Bishop, Martyr",
 "PropersDate":"02/03",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -382,7 +382,7 @@
 ]
 },
 {
-"PropersID":"St Ansgar, Bishop",
+"SanctoralePropersID":"St Ansgar, Bishop",
 "PropersDate":"02/03",
 "CommonsID":"Pastors>For Missionaries",
 "AntiphonalMinorPropers":[
@@ -393,7 +393,7 @@
 ]
 },
 {
-"PropersID":"St Agatha, Virgin, Martyr",
+"SanctoralePropersID":"St Agatha, Virgin, Martyr",
 "PropersDate":"02/05",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For a Virgin Martyr",
@@ -406,7 +406,7 @@
 ]
 },
 {
-"PropersID":"St Paul Miki & Companions, Martyrs",
+"SanctoralePropersID":"St Paul Miki & Companions, Martyrs",
 "PropersDate":"02/06",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For Several Martyrs",
@@ -418,7 +418,7 @@
 ]
 },
 {
-"PropersID":"St Jerome Emiliani",
+"SanctoralePropersID":"St Jerome Emiliani",
 "PropersDate":"02/08",
 "CommonsID":"Holy Men and Women>For Educators",
 "AntiphonalMinorPropers":[
@@ -429,7 +429,7 @@
 ]
 },
 {
-"PropersID":"St Josephine Bakhita, Virgin",
+"SanctoralePropersID":"St Josephine Bakhita, Virgin",
 "PropersDate":"02/08",
 "CommonsID":"Virgins>For One Virgin",
 "AntiphonalMinorPropers":[
@@ -440,7 +440,7 @@
 ]
 },
 {
-"PropersID":"St Scholastica, Virgin",
+"SanctoralePropersID":"St Scholastica, Virgin",
 "PropersDate":"02/10",
 "PropersNote":"Memorial",
 "CommonsID":"Virgins>For One Virgin",
@@ -453,7 +453,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of Lourdes",
+"SanctoralePropersID":"Our Lady of Lourdes",
 "PropersDate":"02/11",
 "CommonsID":"Blessed Virgin Mary",
 "AntiphonalMinorPropers":[
@@ -464,7 +464,7 @@
 ]
 },
 {
-"PropersID":"Ss Cyril, Monk, and Methodius, Bishop",
+"SanctoralePropersID":"Ss Cyril, Monk, and Methodius, Bishop",
 "PropersDate":"02/14",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -492,7 +492,7 @@
 ]
 },
 {
-"PropersID":"The Seven Holy Founders of the Servite Order",
+"SanctoralePropersID":"The Seven Holy Founders of the Servite Order",
 "PropersDate":"02/17",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -503,7 +503,7 @@
 ]
 },
 {
-"PropersID":"St Peter Damian, Bishop, Doctor",
+"SanctoralePropersID":"St Peter Damian, Bishop, Doctor",
 "PropersDate":"02/21",
 "CommonsID":"Doctors",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -515,7 +515,7 @@
 ]
 },
 {
-"PropersID":"The Chair of Saint Peter, Apostle",
+"SanctoralePropersID":"The Chair of Saint Peter, Apostle",
 "PropersDate":"02/22",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -544,7 +544,7 @@
 ]
 },
 {
-"PropersID":"St Polycarp, Bishop, Martyr",
+"SanctoralePropersID":"St Polycarp, Bishop, Martyr",
 "PropersDate":"02/23",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For One Martyr",
@@ -557,7 +557,7 @@
 ]
 },
 {
-"PropersID":"St Katharine Drexel, Virgin",
+"SanctoralePropersID":"St Katharine Drexel, Virgin",
 "PropersDate":"03/03",
 "PropersNote":"USCCB",
 "CommonsID":"Virgins>For One Virgin",
@@ -569,7 +569,7 @@
 ]
 },
 {
-"PropersID":"St Casimir",
+"SanctoralePropersID":"St Casimir",
 "PropersDate":"03/04",
 "CommonsID":"Holy Men and Women>For One Saint",
 "AntiphonalMinorPropers":[
@@ -580,7 +580,7 @@
 ]
 },
 {
-"PropersID":"Ss Perpetua & Felicity, Martyrs",
+"SanctoralePropersID":"Ss Perpetua & Felicity, Martyrs",
 "PropersDate":"03/07",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -608,7 +608,7 @@
 ]
 },
 {
-"PropersID":"St John of God, Religious",
+"SanctoralePropersID":"St John of God, Religious",
 "PropersDate":"03/08",
 "CommonsID":"Holy Men and Women>For Religious Practiced Works of Mercy",
 "AntiphonalMinorPropers":[
@@ -619,7 +619,7 @@
 ]
 },
 {
-"PropersID":"St Frances of Rome, Religious",
+"SanctoralePropersID":"St Frances of Rome, Religious",
 "PropersDate":"03/09",
 "CommonsID":"Holy Men and Women>For Holy Women",
 "AntiphonalMinorPropers":[
@@ -630,7 +630,7 @@
 ]
 },
 {
-"PropersID":"St Patrick, Bishop",
+"SanctoralePropersID":"St Patrick, Bishop",
 "PropersDate":"03/17",
 "CommonsID":"Pastors>For Missionaries",
 "AntiphonalMinorPropers":[
@@ -641,7 +641,7 @@
 ]
 },
 {
-"PropersID":"St Cyril of Jerusalem, Bishop, Doctor",
+"SanctoralePropersID":"St Cyril of Jerusalem, Bishop, Doctor",
 "PropersDate":"03/18",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -653,7 +653,7 @@
 ]
 },
 {
-"PropersID":"St Joseph, Spouse of our Lady",
+"SanctoralePropersID":"St Joseph, Spouse of our Lady",
 "PropersDate":"03/19",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -682,7 +682,7 @@
 ]
 },
 {
-"PropersID":"St Turibius of Mogrovejo, Bishop",
+"SanctoralePropersID":"St Turibius of Mogrovejo, Bishop",
 "PropersDate":"03/23",
 "CommonsID":"Pastors>For a Bishop",
 "AntiphonalMinorPropers":[
@@ -693,7 +693,7 @@
 ]
 },
 {
-"PropersID":"Annunciation to our Lady",
+"SanctoralePropersID":"Annunciation to our Lady",
 "PropersDate":"03/25",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -722,7 +722,7 @@
 ]
 },
 {
-"PropersID":"St Francis of Paola, Hermit",
+"SanctoralePropersID":"St Francis of Paola, Hermit",
 "PropersDate":"04/02",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -733,7 +733,7 @@
 ]
 },
 {
-"PropersID":"St Isidore, Bishop, Doctor",
+"SanctoralePropersID":"St Isidore, Bishop, Doctor",
 "PropersDate":"04/04",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -745,7 +745,7 @@
 ]
 },
 {
-"PropersID":"St Vincent Ferrer, Priest",
+"SanctoralePropersID":"St Vincent Ferrer, Priest",
 "PropersDate":"04/05",
 "CommonsID":"Pastors>For Missionaries",
 "AntiphonalMinorPropers":[
@@ -756,7 +756,7 @@
 ]
 },
 {
-"PropersID":"St John Baptist de la Salle, Priest",
+"SanctoralePropersID":"St John Baptist de la Salle, Priest",
 "PropersDate":"04/07",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -769,7 +769,7 @@
 ]
 },
 {
-"PropersID":"St Stanislaus, Bishop, Martyr",
+"SanctoralePropersID":"St Stanislaus, Bishop, Martyr",
 "PropersDate":"04/11",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For One Martyr",
@@ -782,7 +782,7 @@
 ]
 },
 {
-"PropersID":"St Martin I, Pope, Martyr",
+"SanctoralePropersID":"St Martin I, Pope, Martyr",
 "PropersDate":"04/13",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Pope or for a Bishop",
@@ -794,7 +794,7 @@
 ]
 },
 {
-"PropersID":"St Anselm, Bishop, Doctor",
+"SanctoralePropersID":"St Anselm, Bishop, Doctor",
 "PropersDate":"04/21",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -806,7 +806,7 @@
 ]
 },
 {
-"PropersID":"St George, Martyr",
+"SanctoralePropersID":"St George, Martyr",
 "PropersDate":"04/23",
 "CommonsID":"Martyrs>For One Martyr during Easter Time",
 "AntiphonalMinorPropers":[
@@ -817,7 +817,7 @@
 ]
 },
 {
-"PropersID":"St Adalbert, Bishop, Martyr",
+"SanctoralePropersID":"St Adalbert, Bishop, Martyr",
 "PropersDate":"04/23",
 "CommonsID":"Martyrs>For One Martyr during Easter Time",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -829,7 +829,7 @@
 ]
 },
 {
-"PropersID":"St Fidelis of Sigmaringen, Priest, Martyr",
+"SanctoralePropersID":"St Fidelis of Sigmaringen, Priest, Martyr",
 "PropersDate":"04/24",
 "CommonsID":"Martyrs>For One Martyr during Easter Time",
 "CommonsIDAlt":"Pastors>For One Pastor",
@@ -841,7 +841,7 @@
 ]
 },
 {
-"PropersID":"St Mark, Evangelist",
+"SanctoralePropersID":"St Mark, Evangelist",
 "PropersDate":"04/25",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -870,7 +870,7 @@
 ]
 },
 {
-"PropersID":"St Peter Chanel, Priest, Martyr",
+"SanctoralePropersID":"St Peter Chanel, Priest, Martyr",
 "PropersDate":"04/28",
 "CommonsID":"Martyrs>For One Martyr during Easter Time",
 "CommonsIDAlt":"Pastors>For Missionaries",
@@ -882,7 +882,7 @@
 ]
 },
 {
-"PropersID":"St Louis Grignion de Montfort, Priest",
+"SanctoralePropersID":"St Louis Grignion de Montfort, Priest",
 "PropersDate":"04/28",
 "CommonsID":"Pastors>For One Pastor",
 "AntiphonalMinorPropers":[
@@ -893,7 +893,7 @@
 ]
 },
 {
-"PropersID":"St Catherine of Siena, Virgin, Doctor",
+"SanctoralePropersID":"St Catherine of Siena, Virgin, Doctor",
 "PropersDate":"04/29",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -921,7 +921,7 @@
 ]
 },
 {
-"PropersID":"St Pius V, Pope",
+"SanctoralePropersID":"St Pius V, Pope",
 "PropersDate":"04/30",
 "CommonsID":"Pastors>For a Pope",
 "AntiphonalMinorPropers":[
@@ -932,7 +932,7 @@
 ]
 },
 {
-"PropersID":"St Joseph the Worker",
+"SanctoralePropersID":"St Joseph the Worker",
 "PropersDate":"05/01",
 "AntiphonalMinorPropers":[
 {
@@ -960,7 +960,7 @@
 ]
 },
 {
-"PropersID":"St Athanasius, Bishop, Doctor",
+"SanctoralePropersID":"St Athanasius, Bishop, Doctor",
 "PropersDate":"05/02",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -989,7 +989,7 @@
 ]
 },
 {
-"PropersID":"Ss Philip & James, Apostles",
+"SanctoralePropersID":"Ss Philip & James, Apostles",
 "PropersDate":"05/03",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -1017,7 +1017,7 @@
 ]
 },
 {
-"PropersID":"St Damien de Veuster, Priest",
+"SanctoralePropersID":"St Damien de Veuster, Priest",
 "PropersDate":"05/10",
 "PropersNote":"USCCB",
 "CommonsID":"Pastors>For Missionaries",
@@ -1029,7 +1029,7 @@
 ]
 },
 {
-"PropersID":"Ss Nereus & Achilleus, Martyrs",
+"SanctoralePropersID":"Ss Nereus & Achilleus, Martyrs",
 "PropersDate":"05/12",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1040,7 +1040,7 @@
 ]
 },
 {
-"PropersID":"St Pancras, Martyr",
+"SanctoralePropersID":"St Pancras, Martyr",
 "PropersDate":"05/12",
 "CommonsID":"Martyrs>For One Martyr",
 "AntiphonalMinorPropers":[
@@ -1051,7 +1051,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of Fatima",
+"SanctoralePropersID":"Our Lady of Fatima",
 "PropersDate":"05/13",
 "CommonsID":"Blessed Virgin Mary",
 "AntiphonalMinorPropers":[
@@ -1062,7 +1062,7 @@
 ]
 },
 {
-"PropersID":"St Matthias, Apostle",
+"SanctoralePropersID":"St Matthias, Apostle",
 "PropersDate":"05/14",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -1091,7 +1091,7 @@
 ]
 },
 {
-"PropersID":"St Isidore",
+"SanctoralePropersID":"St Isidore",
 "PropersDate":"05/15",
 "PropersNote":"USCCB",
 "CommonsID":"Holy Men and Women>For One Saint",
@@ -1103,7 +1103,7 @@
 ]
 },
 {
-"PropersID":"St John I, Pope, Martyr",
+"SanctoralePropersID":"St John I, Pope, Martyr",
 "PropersDate":"05/18",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Pope or for a Bishop",
@@ -1115,7 +1115,7 @@
 ]
 },
 {
-"PropersID":"St Bernardine of Siena, Priest",
+"SanctoralePropersID":"St Bernardine of Siena, Priest",
 "PropersDate":"05/20",
 "CommonsID":"Pastors>For Missionaries",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -1127,7 +1127,7 @@
 ]
 },
 {
-"PropersID":"St Christopher Magallanes, Priest, & Companions, Martyrs",
+"SanctoralePropersID":"St Christopher Magallanes, Priest, & Companions, Martyrs",
 "PropersDate":"05/21",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1138,7 +1138,7 @@
 ]
 },
 {
-"PropersID":"St Rita of Cascia, Religious",
+"SanctoralePropersID":"St Rita of Cascia, Religious",
 "PropersDate":"05/22",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -1149,7 +1149,7 @@
 ]
 },
 {
-"PropersID":"St Bede the Venerable, Priest, Doctor",
+"SanctoralePropersID":"St Bede the Venerable, Priest, Doctor",
 "PropersDate":"05/25",
 "CommonsID":"Doctors",
 "CommonsIDAlt":"Holy Men and Women>For a Monk",
@@ -1161,7 +1161,7 @@
 ]
 },
 {
-"PropersID":"St Gregory VII, Pope",
+"SanctoralePropersID":"St Gregory VII, Pope",
 "PropersDate":"05/25",
 "CommonsID":"Pastors>For a Pope",
 "AntiphonalMinorPropers":[
@@ -1172,7 +1172,7 @@
 ]
 },
 {
-"PropersID":"St Mary Magdalene de’ Pazzi, Virgin",
+"SanctoralePropersID":"St Mary Magdalene de’ Pazzi, Virgin",
 "PropersDate":"05/25",
 "CommonsID":"Virgins>For One Virgin",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -1184,7 +1184,7 @@
 ]
 },
 {
-"PropersID":"St Philip Neri, Priest",
+"SanctoralePropersID":"St Philip Neri, Priest",
 "PropersDate":"05/26",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1212,7 +1212,7 @@
 ]
 },
 {
-"PropersID":"St Augustine of Canterbury, Bishop",
+"SanctoralePropersID":"St Augustine of Canterbury, Bishop",
 "PropersDate":"05/27",
 "CommonsID":"Pastors>For Missionaries",
 "AntiphonalMinorPropers":[
@@ -1223,7 +1223,7 @@
 ]
 },
 {
-"PropersID":"Visitation of our Lady",
+"SanctoralePropersID":"Visitation of our Lady",
 "PropersDate":"05/31",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -1274,7 +1274,7 @@
 ]
 },
 {
-"PropersID":"St Justin, Martyr",
+"SanctoralePropersID":"St Justin, Martyr",
 "PropersDate":"06/01",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1303,7 +1303,7 @@
 ]
 },
 {
-"PropersID":"Ss Marcellinus & Peter, Martyrs",
+"SanctoralePropersID":"Ss Marcellinus & Peter, Martyrs",
 "PropersDate":"06/02",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1314,7 +1314,7 @@
 ]
 },
 {
-"PropersID":"St Charles Lwanga & Companions, Martyrs",
+"SanctoralePropersID":"St Charles Lwanga & Companions, Martyrs",
 "PropersDate":"06/03",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1343,7 +1343,7 @@
 ]
 },
 {
-"PropersID":"St Boniface, Bishop, Martyr",
+"SanctoralePropersID":"St Boniface, Bishop, Martyr",
 "PropersDate":"06/05",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For One Martyr",
@@ -1356,7 +1356,7 @@
 ]
 },
 {
-"PropersID":"St Norbert, Bishop",
+"SanctoralePropersID":"St Norbert, Bishop",
 "PropersDate":"06/06",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -1368,7 +1368,7 @@
 ]
 },
 {
-"PropersID":"St Ephrem, Deacon, Doctor",
+"SanctoralePropersID":"St Ephrem, Deacon, Doctor",
 "PropersDate":"06/09",
 "CommonsID":"Doctors",
 "AntiphonalMinorPropers":[
@@ -1379,7 +1379,7 @@
 ]
 },
 {
-"PropersID":"St Barnabas, Apostle",
+"SanctoralePropersID":"St Barnabas, Apostle",
 "PropersDate":"06/11",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1408,7 +1408,7 @@
 ]
 },
 {
-"PropersID":"St Anthony of Padua, Priest, Doctor",
+"SanctoralePropersID":"St Anthony of Padua, Priest, Doctor",
 "PropersDate":"06/13",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -1421,7 +1421,7 @@
 ]
 },
 {
-"PropersID":"St Romuald, Abbot",
+"SanctoralePropersID":"St Romuald, Abbot",
 "PropersDate":"06/19",
 "CommonsID":"Holy Men and Women>For an Abbot",
 "AntiphonalMinorPropers":[
@@ -1432,7 +1432,7 @@
 ]
 },
 {
-"PropersID":"St Aloysius Gonzaga, Religious",
+"SanctoralePropersID":"St Aloysius Gonzaga, Religious",
 "PropersDate":"06/21",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1461,7 +1461,7 @@
 ]
 },
 {
-"PropersID":"St Paulinus of Nola, Bishop",
+"SanctoralePropersID":"St Paulinus of Nola, Bishop",
 "PropersDate":"06/22",
 "CommonsID":"Pastors>For a Bishop",
 "AntiphonalMinorPropers":[
@@ -1472,7 +1472,7 @@
 ]
 },
 {
-"PropersID":"Ss John Fisher, Bishop, & Thomas More, Martyrs",
+"SanctoralePropersID":"Ss John Fisher, Bishop, & Thomas More, Martyrs",
 "PropersDate":"06/22",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1483,7 +1483,7 @@
 ]
 },
 {
-"PropersID":"Nativity of St John the Baptist:Vigil",
+"SanctoralePropersID":"Nativity of St John the Baptist:Vigil",
 "PropersDate":"06/24",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -1512,7 +1512,7 @@
 ]
 },
 {
-"PropersID":"Nativity of St John the Baptist:Day",
+"SanctoralePropersID":"Nativity of St John the Baptist:Day",
 "PropersDate":"06/24",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -1541,7 +1541,7 @@
 ]
 },
 {
-"PropersID":"St Cyril of Alexandria, Bishop, Doctor",
+"SanctoralePropersID":"St Cyril of Alexandria, Bishop, Doctor",
 "PropersDate":"06/27",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -1553,7 +1553,7 @@
 ]
 },
 {
-"PropersID":"St Irenaeus, Bishop, Martyr",
+"SanctoralePropersID":"St Irenaeus, Bishop, Martyr",
 "PropersDate":"06/28",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1582,7 +1582,7 @@
 ]
 },
 {
-"PropersID":"Ss Peter & Paul, Apostles:Vigil",
+"SanctoralePropersID":"Ss Peter & Paul, Apostles:Vigil",
 "PropersDate":"06/29",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -1610,7 +1610,7 @@
 ]
 },
 {
-"PropersID":"Ss Peter & Paul, Apostles:Day",
+"SanctoralePropersID":"Ss Peter & Paul, Apostles:Day",
 "PropersDate":"06/29",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -1638,7 +1638,7 @@
 ]
 },
 {
-"PropersID":"First Martyrs of Holy Roman Church",
+"SanctoralePropersID":"First Martyrs of Holy Roman Church",
 "PropersDate":"06/30",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1649,7 +1649,7 @@
 ]
 },
 {
-"PropersID":"Bl Junípero Serra, Priest",
+"SanctoralePropersID":"Bl Junípero Serra, Priest",
 "PropersDate":"07/01",
 "PropersNote":"USCCB",
 "CommonsID":"Pastors>For Missionaries",
@@ -1661,7 +1661,7 @@
 ]
 },
 {
-"PropersID":"St Thomas, Apostle",
+"SanctoralePropersID":"St Thomas, Apostle",
 "PropersDate":"07/03",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -1690,7 +1690,7 @@
 ]
 },
 {
-"PropersID":"Independence Day",
+"SanctoralePropersID":"Independence Day",
 "PropersDate":"07/04",
 "PropersNote":"USCCB",
 "AntiphonalMinorPropers":[
@@ -1719,7 +1719,7 @@
 ]
 },
 {
-"PropersID":"St Anthony Zaccaria, Priest",
+"SanctoralePropersID":"St Anthony Zaccaria, Priest",
 "PropersDate":"07/05",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Holy Men and Women>For Educators",
@@ -1731,7 +1731,7 @@
 ]
 },
 {
-"PropersID":"St Elizabeth of Portugal, Queen, Widow",
+"SanctoralePropersID":"St Elizabeth of Portugal, Queen, Widow",
 "PropersDate":"07/05",
 "CommonsID":"Holy Men and Women>For Those Who Practiced Works of Mercy",
 "AntiphonalMinorPropers":[
@@ -1742,7 +1742,7 @@
 ]
 },
 {
-"PropersID":"St Maria Goretti, Virgin, Martyr",
+"SanctoralePropersID":"St Maria Goretti, Virgin, Martyr",
 "PropersDate":"07/06",
 "CommonsID":"Martyrs>For a Virgin Martyr",
 "CommonsIDAlt":"Virgins>For One Virgin",
@@ -1754,7 +1754,7 @@
 ]
 },
 {
-"PropersID":"St Augustine Zhao Rong, Priest, & Companions, Martyrs",
+"SanctoralePropersID":"St Augustine Zhao Rong, Priest, & Companions, Martyrs",
 "PropersDate":"07/09",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -1765,7 +1765,7 @@
 ]
 },
 {
-"PropersID":"St Benedict, Abbot",
+"SanctoralePropersID":"St Benedict, Abbot",
 "PropersDate":"07/11",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1793,7 +1793,7 @@
 ]
 },
 {
-"PropersID":"St Henry",
+"SanctoralePropersID":"St Henry",
 "PropersDate":"07/13",
 "CommonsID":"Holy Men and Women>For One Saint",
 "AntiphonalMinorPropers":[
@@ -1804,7 +1804,7 @@
 ]
 },
 {
-"PropersID":"Blessed Kateri Tekakwitha, Virgin",
+"SanctoralePropersID":"Blessed Kateri Tekakwitha, Virgin",
 "PropersDate":"07/14",
 "PropersNote":"USCCB,Memorial",
 "CommonsID":"Virgins>For One Virgin",
@@ -1816,7 +1816,7 @@
 ]
 },
 {
-"PropersID":"St Bonaventure, Bishop, Doctor",
+"SanctoralePropersID":"St Bonaventure, Bishop, Doctor",
 "PropersDate":"07/15",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For a Bishop",
@@ -1829,7 +1829,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of Mount Carmel",
+"SanctoralePropersID":"Our Lady of Mount Carmel",
 "PropersDate":"07/16",
 "CommonsID":"Blessed Virgin Mary",
 "AntiphonalMinorPropers":[
@@ -1840,7 +1840,7 @@
 ]
 },
 {
-"PropersID":"St Camillus de Lellis, Priest",
+"SanctoralePropersID":"St Camillus de Lellis, Priest",
 "PropersDate":"07/18",
 "PropersNote":"USCCB",
 "CommonsID":"Holy Men and Women>For Those Who Practiced Works of Mercy",
@@ -1852,7 +1852,7 @@
 ]
 },
 {
-"PropersID":"St Apollinaris, Bishop, Martyr",
+"SanctoralePropersID":"St Apollinaris, Bishop, Martyr",
 "PropersDate":"07/20",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -1864,7 +1864,7 @@
 ]
 },
 {
-"PropersID":"St Lawrence of Brindisi, Priest, Doctor",
+"SanctoralePropersID":"St Lawrence of Brindisi, Priest, Doctor",
 "PropersDate":"07/21",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Doctor",
@@ -1876,7 +1876,7 @@
 ]
 },
 {
-"PropersID":"St Mary Magdalene",
+"SanctoralePropersID":"St Mary Magdalene",
 "PropersDate":"07/22",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1905,7 +1905,7 @@
 ]
 },
 {
-"PropersID":"St Bridget, Religious",
+"SanctoralePropersID":"St Bridget, Religious",
 "PropersDate":"07/23",
 "CommonsID":"Holy Men and Women>For Holy Women",
 "AntiphonalMinorPropers":[
@@ -1916,7 +1916,7 @@
 ]
 },
 {
-"PropersID":"St Charbel Makhlouf OLM, Priest, Religious, Wonderwonker",
+"SanctoralePropersID":"St Charbel Makhlouf OLM, Priest, Religious, Wonderwonker",
 "PropersDate":"07/24",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Holy Men and Women>For a Monk",
@@ -1928,7 +1928,7 @@
 ]
 },
 {
-"PropersID":"St James, Apostle",
+"SanctoralePropersID":"St James, Apostle",
 "PropersDate":"07/25",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -1956,7 +1956,7 @@
 ]
 },
 {
-"PropersID":"Ss Joachim & Anne, Parents of our Lady",
+"SanctoralePropersID":"Ss Joachim & Anne, Parents of our Lady",
 "PropersDate":"07/26",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -1985,7 +1985,7 @@
 ]
 },
 {
-"PropersID":"St Martha",
+"SanctoralePropersID":"St Martha",
 "PropersDate":"07/29",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2014,7 +2014,7 @@
 ]
 },
 {
-"PropersID":"St Peter Chrysologus, Bishop, Doctor",
+"SanctoralePropersID":"St Peter Chrysologus, Bishop, Doctor",
 "PropersDate":"07/30",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -2026,7 +2026,7 @@
 ]
 },
 {
-"PropersID":"St Ignatius of Loyola, Priest",
+"SanctoralePropersID":"St Ignatius of Loyola, Priest",
 "PropersDate":"07/31",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2055,7 +2055,7 @@
 ]
 },
 {
-"PropersID":"St Alphonsus Liguori, Bishop, Doctor",
+"SanctoralePropersID":"St Alphonsus Liguori, Bishop, Doctor",
 "PropersDate":"08/01",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For a Bishop",
@@ -2076,7 +2076,7 @@
 ]
 },
 {
-"PropersID":"St Eusebius of Vercelli, Bishop",
+"SanctoralePropersID":"St Eusebius of Vercelli, Bishop",
 "PropersDate":"08/02",
 "CommonsID":"Pastors>For a Bishop",
 "AntiphonalMinorPropers":[
@@ -2087,7 +2087,7 @@
 ]
 },
 {
-"PropersID":"St Peter Julian Eymard, Priest",
+"SanctoralePropersID":"St Peter Julian Eymard, Priest",
 "PropersDate":"08/02",
 "CommonsID":"Holy Men and Women>For Religious",
 "CommonsIDAlt":"Pastors>For One Pastor",
@@ -2099,7 +2099,7 @@
 ]
 },
 {
-"PropersID":"St John Vianney, Priest",
+"SanctoralePropersID":"St John Vianney, Priest",
 "PropersDate":"08/04",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -2111,7 +2111,7 @@
 ]
 },
 {
-"PropersID":"Dedication of the Basilica of St Mary Major",
+"SanctoralePropersID":"Dedication of the Basilica of St Mary Major",
 "PropersDate":"08/05",
 "CommonsID":"Blessed Virgin Mary",
 "AntiphonalMinorPropers":[
@@ -2122,7 +2122,7 @@
 ]
 },
 {
-"PropersID":"Transfiguration of the Lord",
+"SanctoralePropersID":"Transfiguration of the Lord",
 "PropersDate":"08/06",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2151,7 +2151,7 @@
 ]
 },
 {
-"PropersID":"St Sixtus II, Pope, & Companions, Martyrs",
+"SanctoralePropersID":"St Sixtus II, Pope, & Companions, Martyrs",
 "PropersDate":"08/07",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -2162,7 +2162,7 @@
 ]
 },
 {
-"PropersID":"St Cajetan, Priest",
+"SanctoralePropersID":"St Cajetan, Priest",
 "PropersDate":"08/07",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -2174,7 +2174,7 @@
 ]
 },
 {
-"PropersID":"St Dominic, Priest",
+"SanctoralePropersID":"St Dominic, Priest",
 "PropersDate":"08/08",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2203,7 +2203,7 @@
 ]
 },
 {
-"PropersID":"St Teresa Benedicta of the Cross (Edith Stein), Virgin, Martyr",
+"SanctoralePropersID":"St Teresa Benedicta of the Cross (Edith Stein), Virgin, Martyr",
 "PropersDate":"08/09",
 "CommonsID":"Martyrs>For a Virgin Martyr",
 "CommonsIDAlt":"Virgins>For One Virgin",
@@ -2215,7 +2215,7 @@
 ]
 },
 {
-"PropersID":"St lawrence, Deacon, Martyr",
+"SanctoralePropersID":"St lawrence, Deacon, Martyr",
 "PropersDate":"08/10",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2243,7 +2243,7 @@
 ]
 },
 {
-"PropersID":"St Clare, Virgin",
+"SanctoralePropersID":"St Clare, Virgin",
 "PropersDate":"08/11",
 "PropersNote":"Memorial",
 "CommonsID":"Virgins>For One Virgin",
@@ -2256,7 +2256,7 @@
 ]
 },
 {
-"PropersID":"St Jane Frances de Chantal, Religious",
+"SanctoralePropersID":"St Jane Frances de Chantal, Religious",
 "PropersDate":"08/12",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -2267,7 +2267,7 @@
 ]
 },
 {
-"PropersID":"Ss Pontian, Pope, & Hippolytus, Priest, Martyrs",
+"SanctoralePropersID":"Ss Pontian, Pope, & Hippolytus, Priest, Martyrs",
 "PropersDate":"08/13",
 "CommonsID":"Martyrs>For Several Martyrs",
 "CommonsIDAlt":"Pastors>For Several Pastors",
@@ -2279,7 +2279,7 @@
 ]
 },
 {
-"PropersID":"St Maximilian Kolbe, Priest, Martyr",
+"SanctoralePropersID":"St Maximilian Kolbe, Priest, Martyr",
 "PropersDate":"08/14",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2308,7 +2308,7 @@
 ]
 },
 {
-"PropersID":"Assumption of our Lady:Vigil",
+"SanctoralePropersID":"Assumption of our Lady:Vigil",
 "PropersDate":"08/15",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -2336,7 +2336,7 @@
 ]
 },
 {
-"PropersID":"Assumption of our Lady:Day",
+"SanctoralePropersID":"Assumption of our Lady:Day",
 "PropersDate":"08/15",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -2365,7 +2365,7 @@
 ]
 },
 {
-"PropersID":"St Stephen of Hungary",
+"SanctoralePropersID":"St Stephen of Hungary",
 "PropersDate":"08/16",
 "CommonsID":"Holy Men and Women>For One Saint",
 "AntiphonalMinorPropers":[
@@ -2376,7 +2376,7 @@
 ]
 },
 {
-"PropersID":"St John Eudes, Priest",
+"SanctoralePropersID":"St John Eudes, Priest",
 "PropersDate":"08/19",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -2388,7 +2388,7 @@
 ]
 },
 {
-"PropersID":"St Bernard, Abbot, Doctor",
+"SanctoralePropersID":"St Bernard, Abbot, Doctor",
 "PropersDate":"08/20",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2416,7 +2416,7 @@
 ]
 },
 {
-"PropersID":"St Pius X, Pope",
+"SanctoralePropersID":"St Pius X, Pope",
 "PropersDate":"08/21",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For a Pope",
@@ -2436,7 +2436,7 @@
 ]
 },
 {
-"PropersID":"Queenship of our Lady",
+"SanctoralePropersID":"Queenship of our Lady",
 "PropersDate":"08/22",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2465,7 +2465,7 @@
 ]
 },
 {
-"PropersID":"St Rose of Lima, Virgin",
+"SanctoralePropersID":"St Rose of Lima, Virgin",
 "PropersDate":"08/23",
 "CommonsID":"Virgins>For One Virgin",
 "AntiphonalMinorPropers":[
@@ -2476,7 +2476,7 @@
 ]
 },
 {
-"PropersID":"St Bartholomew, Apostle",
+"SanctoralePropersID":"St Bartholomew, Apostle",
 "PropersDate":"08/24",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2505,7 +2505,7 @@
 ]
 },
 {
-"PropersID":"St Louis",
+"SanctoralePropersID":"St Louis",
 "PropersDate":"08/25",
 "CommonsID":"Holy Men and Women>For One Saint",
 "AntiphonalMinorPropers":[
@@ -2516,7 +2516,7 @@
 ]
 },
 {
-"PropersID":"Saint Joseph Calasanz, Priest",
+"SanctoralePropersID":"Saint Joseph Calasanz, Priest",
 "PropersDate":"08/25",
 "CommonsID":"Holy Men and Women>For Educators",
 "CommonsIDAlt":"Pastors>For One Pastor",
@@ -2528,7 +2528,7 @@
 ]
 },
 {
-"PropersID":"St Monica",
+"SanctoralePropersID":"St Monica",
 "PropersDate":"08/27",
 "PropersNote":"Memorial",
 "CommonsID":"Holy Men and Women>For Holy Women",
@@ -2540,7 +2540,7 @@
 ]
 },
 {
-"PropersID":"St Augustine, Bishop, Doctor",
+"SanctoralePropersID":"St Augustine, Bishop, Doctor",
 "PropersDate":"08/28",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2569,7 +2569,7 @@
 ]
 },
 {
-"PropersID":"Beheading of St John the Baptist",
+"SanctoralePropersID":"Beheading of St John the Baptist",
 "PropersDate":"08/29",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2598,7 +2598,7 @@
 ]
 },
 {
-"PropersID":"St Gregory the Great, Pope, Doctor",
+"SanctoralePropersID":"St Gregory the Great, Pope, Doctor",
 "PropersDate":"09/03",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2626,7 +2626,7 @@
 ]
 },
 {
-"PropersID":"Nativity of our Lady",
+"SanctoralePropersID":"Nativity of our Lady",
 "PropersDate":"09/08",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2654,7 +2654,7 @@
 ]
 },
 {
-"PropersID":"St Peter Claver, Priest",
+"SanctoralePropersID":"St Peter Claver, Priest",
 "PropersDate":"09/09",
 "PropersNote":"USCCB,Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -2667,7 +2667,7 @@
 ]
 },
 {
-"PropersID":"Most Holy Name of Mary",
+"SanctoralePropersID":"Most Holy Name of Mary",
 "PropersDate":"09/12",
 "AntiphonalMinorPropers":[
 {
@@ -2695,7 +2695,7 @@
 ]
 },
 {
-"PropersID":"St John Chrysostom, Bishop, Doctor",
+"SanctoralePropersID":"St John Chrysostom, Bishop, Doctor",
 "PropersDate":"09/13",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2724,7 +2724,7 @@
 ]
 },
 {
-"PropersID":"Exaltation of the Holy Cross",
+"SanctoralePropersID":"Exaltation of the Holy Cross",
 "PropersDate":"09/14",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2753,7 +2753,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of Sorrows",
+"SanctoralePropersID":"Our Lady of Sorrows",
 "PropersDate":"09/15",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2782,7 +2782,7 @@
 ]
 },
 {
-"PropersID":"Ss Cornelius, Pope, & Cyprian, Bishop, Martyrs",
+"SanctoralePropersID":"Ss Cornelius, Pope, & Cyprian, Bishop, Martyrs",
 "PropersDate":"09/16",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For Several Martyrs",
@@ -2803,7 +2803,7 @@
 ]
 },
 {
-"PropersID":"St Robert Bellarmine, Bishop, Doctor",
+"SanctoralePropersID":"St Robert Bellarmine, Bishop, Doctor",
 "PropersDate":"09/17",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -2815,7 +2815,7 @@
 ]
 },
 {
-"PropersID":"St Januarius, Bishop, Martyr",
+"SanctoralePropersID":"St Januarius, Bishop, Martyr",
 "PropersDate":"09/19",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -2827,7 +2827,7 @@
 ]
 },
 {
-"PropersID":"Ss Andrew Kim Taegon & Companions, Martyrs",
+"SanctoralePropersID":"Ss Andrew Kim Taegon & Companions, Martyrs",
 "PropersDate":"09/20",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2855,7 +2855,7 @@
 ]
 },
 {
-"PropersID":"St Matthew, Apostle, Evangelist",
+"SanctoralePropersID":"St Matthew, Apostle, Evangelist",
 "PropersDate":"09/21",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2884,7 +2884,7 @@
 ]
 },
 {
-"PropersID":"St Pius of Pietrelcina, Priest",
+"SanctoralePropersID":"St Pius of Pietrelcina, Priest",
 "PropersDate":"09/23",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For One Pastor",
@@ -2897,7 +2897,7 @@
 ]
 },
 {
-"PropersID":"Ss Cosmas & Damian, Martyrs",
+"SanctoralePropersID":"Ss Cosmas & Damian, Martyrs",
 "PropersDate":"09/26",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -2916,7 +2916,7 @@
 ]
 },
 {
-"PropersID":"St Vincent de Paul, Priest",
+"SanctoralePropersID":"St Vincent de Paul, Priest",
 "PropersDate":"09/27",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -2945,7 +2945,7 @@
 ]
 },
 {
-"PropersID":"St Wenceslaus, Martyr",
+"SanctoralePropersID":"St Wenceslaus, Martyr",
 "PropersDate":"09/28",
 "CommonsID":"Martyrs>For One Martyr",
 "AntiphonalMinorPropers":[
@@ -2956,7 +2956,7 @@
 ]
 },
 {
-"PropersID":"St Lawrence Ruiz & Companions, Martyrs",
+"SanctoralePropersID":"St Lawrence Ruiz & Companions, Martyrs",
 "PropersDate":"09/28",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -2967,7 +2967,7 @@
 ]
 },
 {
-"PropersID":"Ss Michael, Gabriel and Raphael, Archangels",
+"SanctoralePropersID":"Ss Michael, Gabriel and Raphael, Archangels",
 "PropersDate":"09/29",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -2996,7 +2996,7 @@
 ]
 },
 {
-"PropersID":"St Jerome, Priest, Doctor",
+"SanctoralePropersID":"St Jerome, Priest, Doctor",
 "PropersDate":"09/30",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3025,7 +3025,7 @@
 ]
 },
 {
-"PropersID":"St Thérèse of the Child Jesus, Virgin, Doctor",
+"SanctoralePropersID":"St Thérèse of the Child Jesus, Virgin, Doctor",
 "PropersDate":"10/01",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3054,7 +3054,7 @@
 ]
 },
 {
-"PropersID":"Holy Guardian Angels",
+"SanctoralePropersID":"Holy Guardian Angels",
 "PropersDate":"10/02",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3078,7 +3078,7 @@
 ]
 },
 {
-"PropersID":"St Francis of Assisi",
+"SanctoralePropersID":"St Francis of Assisi",
 "PropersDate":"10/04",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3106,7 +3106,7 @@
 ]
 },
 {
-"PropersID":"St Bruno, Priest",
+"SanctoralePropersID":"St Bruno, Priest",
 "PropersDate":"10/06",
 "CommonsID":"Holy Men and Women>For a Monk",
 "CommonsIDAlt":"Pastors>For One Pastor",
@@ -3118,7 +3118,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of the Rosary",
+"SanctoralePropersID":"Our Lady of the Rosary",
 "PropersDate":"10/07",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3147,7 +3147,7 @@
 ]
 },
 {
-"PropersID":"St Denis, Bishop, & Companions, Martyrs",
+"SanctoralePropersID":"St Denis, Bishop, & Companions, Martyrs",
 "PropersDate":"10/09",
 "CommonsID":"Martyrs>For Several Martyrs",
 "AntiphonalMinorPropers":[
@@ -3158,7 +3158,7 @@
 ]
 },
 {
-"PropersID":"St John Leonardi, Priest",
+"SanctoralePropersID":"St John Leonardi, Priest",
 "PropersDate":"10/09",
 "CommonsID":"Pastors>For Missionaries",
 "CommonsIDAlt":"Holy Men and Women>For Those Who Practiced Works of Mercy",
@@ -3170,7 +3170,7 @@
 ]
 },
 {
-"PropersID":"St Callistus I, Pope, Martyr",
+"SanctoralePropersID":"St Callistus I, Pope, Martyr",
 "PropersDate":"10/14",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For Pope or for a Bishop",
@@ -3182,7 +3182,7 @@
 ]
 },
 {
-"PropersID":"St Teresa of Jesus, Virgin, Doctor",
+"SanctoralePropersID":"St Teresa of Jesus, Virgin, Doctor",
 "PropersDate":"10/15",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3211,7 +3211,7 @@
 ]
 },
 {
-"PropersID":"St Hedwig, Religious",
+"SanctoralePropersID":"St Hedwig, Religious",
 "PropersDate":"10/16",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -3222,7 +3222,7 @@
 ]
 },
 {
-"PropersID":"St Margaret Mary Alacoque, Virgin",
+"SanctoralePropersID":"St Margaret Mary Alacoque, Virgin",
 "PropersDate":"10/16",
 "CommonsID":"Virgins>For One Virgin",
 "AntiphonalMinorPropers":[
@@ -3233,7 +3233,7 @@
 ]
 },
 {
-"PropersID":"St Ignatius of Antioch, Bishop, Martyr",
+"SanctoralePropersID":"St Ignatius of Antioch, Bishop, Martyr",
 "PropersDate":"10/17",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3261,7 +3261,7 @@
 ]
 },
 {
-"PropersID":"St Luke, Evangelist",
+"SanctoralePropersID":"St Luke, Evangelist",
 "PropersDate":"10/18",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -3290,7 +3290,7 @@
 ]
 },
 {
-"PropersID":"Ss John de Brébeuf & Isaac Jogues, Priests, & Companions, Martyrs",
+"SanctoralePropersID":"Ss John de Brébeuf & Isaac Jogues, Priests, & Companions, Martyrs",
 "PropersDate":"10/19",
 "PropersNote":"USCCB,Memorial",
 "CommonsID":"Martyrs>For Missionary Martyrs",
@@ -3302,7 +3302,7 @@
 ]
 },
 {
-"PropersID":"St Paul of the Cross, Priest",
+"SanctoralePropersID":"St Paul of the Cross, Priest",
 "PropersDate":"10/20",
 "PropersNote":"USCCB",
 "AntiphonalMinorPropers":[
@@ -3331,7 +3331,7 @@
 ]
 },
 {
-"PropersID":"St John of Capistrano, Priest",
+"SanctoralePropersID":"St John of Capistrano, Priest",
 "PropersDate":"10/23",
 "CommonsID":"Pastors>For Missionaries",
 "CommonsIDAlt":"Holy Men and Women>For Religious",
@@ -3343,7 +3343,7 @@
 ]
 },
 {
-"PropersID":"St Anthony Mary Claret, Bishop",
+"SanctoralePropersID":"St Anthony Mary Claret, Bishop",
 "PropersDate":"10/24",
 "CommonsID":"Pastors>For Missionaries",
 "AntiphonalMinorPropers":[
@@ -3354,7 +3354,7 @@
 ]
 },
 {
-"PropersID":"Ss Simon & Jude, Apostles",
+"SanctoralePropersID":"Ss Simon & Jude, Apostles",
 "PropersDate":"10/28",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -3382,7 +3382,7 @@
 ]
 },
 {
-"PropersID":"All Saints",
+"SanctoralePropersID":"All Saints",
 "PropersDate":"11/01",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -3410,7 +3410,7 @@
 ]
 },
 {
-"PropersID":"All Souls",
+"SanctoralePropersID":"All Souls",
 "PropersDate":"11/02",
 "AntiphonalMinorPropers":[
 {
@@ -3438,7 +3438,7 @@
 ]
 },
 {
-"PropersID":"St Martin de Porres, Religious",
+"SanctoralePropersID":"St Martin de Porres, Religious",
 "PropersDate":"11/03",
 "CommonsID":"Holy Men and Women>For Religious",
 "AntiphonalMinorPropers":[
@@ -3449,7 +3449,7 @@
 ]
 },
 {
-"PropersID":"St Charles Borromeo, Bishop",
+"SanctoralePropersID":"St Charles Borromeo, Bishop",
 "PropersDate":"11/04",
 "PropersNote":"Memorial",
 "CommonsID":"Pastors>For a Bishop",
@@ -3469,7 +3469,7 @@
 ]
 },
 {
-"PropersID":"Dedication of the Lateran Basilica",
+"SanctoralePropersID":"Dedication of the Lateran Basilica",
 "PropersDate":"11/09",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -3498,7 +3498,7 @@
 ]
 },
 {
-"PropersID":"St Leo the Great, Pope, Doctor",
+"SanctoralePropersID":"St Leo the Great, Pope, Doctor",
 "PropersDate":"11/10",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3527,7 +3527,7 @@
 ]
 },
 {
-"PropersID":"St Martin of Tours, Bishop",
+"SanctoralePropersID":"St Martin of Tours, Bishop",
 "PropersDate":"11/11",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3556,7 +3556,7 @@
 ]
 },
 {
-"PropersID":"St Josaphat, Bishop, Martyr",
+"SanctoralePropersID":"St Josaphat, Bishop, Martyr",
 "PropersDate":"11/12",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3584,7 +3584,7 @@
 ]
 },
 {
-"PropersID":"St Frances Xavier Cabrini, Virgin",
+"SanctoralePropersID":"St Frances Xavier Cabrini, Virgin",
 "PropersDate":"11/13",
 "PropersNote":"USCCB,Memorial",
 "CommonsID":"Virgins>For One Virgin",
@@ -3597,7 +3597,7 @@
 ]
 },
 {
-"PropersID":"St Albert the Great, Bishop, Doctor",
+"SanctoralePropersID":"St Albert the Great, Bishop, Doctor",
 "PropersDate":"11/15",
 "CommonsID":"Pastors>For a Bishop",
 "CommonsIDAlt":"Doctor",
@@ -3609,7 +3609,7 @@
 ]
 },
 {
-"PropersID":"St Margaret of Scotland",
+"SanctoralePropersID":"St Margaret of Scotland",
 "PropersDate":"11/16",
 "CommonsID":"Holy Men and Women>For Those Who Practiced Works of Mercy",
 "AntiphonalMinorPropers":[
@@ -3620,7 +3620,7 @@
 ]
 },
 {
-"PropersID":"St Gertrude, Virgin",
+"SanctoralePropersID":"St Gertrude, Virgin",
 "PropersDate":"11/16",
 "CommonsID":"Virgins>For One Virgin",
 "CommonsIDAlt":"Holy Men and Women>For a Nun",
@@ -3632,7 +3632,7 @@
 ]
 },
 {
-"PropersID":"St Elizabeth of Hungary, Religious",
+"SanctoralePropersID":"St Elizabeth of Hungary, Religious",
 "PropersDate":"11/17",
 "PropersNote":"Memorial",
 "CommonsID":"Holy Men and Women>For Those Who Practiced Works of Mercy",
@@ -3644,7 +3644,7 @@
 ]
 },
 {
-"PropersID":"The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
+"SanctoralePropersID":"The Dedication of the Basilicas of Saints Peter and Paul, Apostles",
 "PropersDate":"11/18",
 "AntiphonalMinorPropers":[
 {
@@ -3672,7 +3672,7 @@
 ]
 },
 {
-"PropersID":"St Rose Philippine Duchesne, Virgin",
+"SanctoralePropersID":"St Rose Philippine Duchesne, Virgin",
 "PropersDate":"11/18",
 "PropersNote":"USCCB",
 "CommonsID":"Virgins>For One Virgin",
@@ -3684,7 +3684,7 @@
 ]
 },
 {
-"PropersID":"Presentation of our Lady",
+"SanctoralePropersID":"Presentation of our Lady",
 "PropersDate":"11/21",
 "PropersNote":"Memorial",
 "CommonsID":"Blessed Virgin Mary",
@@ -3696,7 +3696,7 @@
 ]
 },
 {
-"PropersID":"St Cecilia, Virgin, Martyr",
+"SanctoralePropersID":"St Cecilia, Virgin, Martyr",
 "PropersDate":"11/22",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For a Virgin Martyr",
@@ -3709,7 +3709,7 @@
 ]
 },
 {
-"PropersID":"St Clement I, Pope, Martyr",
+"SanctoralePropersID":"St Clement I, Pope, Martyr",
 "PropersDate":"11/23",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Pope or for a Bishop",
@@ -3721,7 +3721,7 @@
 ]
 },
 {
-"PropersID":"St Columban, Abbot",
+"SanctoralePropersID":"St Columban, Abbot",
 "PropersDate":"11/23",
 "CommonsID":"Pastors>For Missionaries",
 "CommonsIDAlt":"Holy Men and Women>For an Abbot",
@@ -3733,7 +3733,7 @@
 ]
 },
 {
-"PropersID":"Bl Miguel Agustín Pro, Priest, Martyr",
+"SanctoralePropersID":"Bl Miguel Agustín Pro, Priest, Martyr",
 "PropersDate":"11/23",
 "PropersNote":"USCCB",
 "CommonsID":"Martyrs>For One Martyr",
@@ -3746,7 +3746,7 @@
 ]
 },
 {
-"PropersID":"St Andrew Dung-Lac, Priest, and Companions, Martyrs",
+"SanctoralePropersID":"St Andrew Dung-Lac, Priest, and Companions, Martyrs",
 "PropersDate":"11/24",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3775,7 +3775,7 @@
 ]
 },
 {
-"PropersID":"St Catherine of Alexandria, Virgin, Martyr",
+"SanctoralePropersID":"St Catherine of Alexandria, Virgin, Martyr",
 "PropersDate":"11/25",
 "CommonsID":"Martyrs>For a Virgin Martyr",
 "CommonsIDAlt":"Virgins>For One Virgin",
@@ -3787,7 +3787,7 @@
 ]
 },
 {
-"PropersID":"St Andrew, Apostle",
+"SanctoralePropersID":"St Andrew, Apostle",
 "PropersDate":"11/30",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -3816,7 +3816,7 @@
 ]
 },
 {
-"PropersID":"Thanksgiving Day",
+"SanctoralePropersID":"Thanksgiving Day",
 "PropersDate":"11/44",
 "PropersNote":"USCCB",
 "AntiphonalMinorPropers":[
@@ -3845,7 +3845,7 @@
 ]
 },
 {
-"PropersID":"St Francis Xavier, Priest",
+"SanctoralePropersID":"St Francis Xavier, Priest",
 "PropersDate":"12/03",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3874,7 +3874,7 @@
 ]
 },
 {
-"PropersID":"St John Damascene, Priest, Doctor",
+"SanctoralePropersID":"St John Damascene, Priest, Doctor",
 "PropersDate":"12/04",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Doctor",
@@ -3886,7 +3886,7 @@
 ]
 },
 {
-"PropersID":"St Nicholas, Bishop",
+"SanctoralePropersID":"St Nicholas, Bishop",
 "PropersDate":"12/06",
 "CommonsID":"Pastors>For a Bishop",
 "AntiphonalMinorPropers":[
@@ -3897,7 +3897,7 @@
 ]
 },
 {
-"PropersID":"St Ambrose, Bishop, Doctor",
+"SanctoralePropersID":"St Ambrose, Bishop, Doctor",
 "PropersDate":"12/07",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -3926,7 +3926,7 @@
 ]
 },
 {
-"PropersID":"Immaculate Conception of our Lady",
+"SanctoralePropersID":"Immaculate Conception of our Lady",
 "PropersDate":"12/08",
 "PropersNote":"Solemnity",
 "AntiphonalMinorPropers":[
@@ -3954,7 +3954,7 @@
 ]
 },
 {
-"PropersID":"St Juan Diego Cuauhtlatoatzin",
+"SanctoralePropersID":"St Juan Diego Cuauhtlatoatzin",
 "PropersDate":"12/09",
 "CommonsID":"Holy Men and Women>For One Saint",
 "AntiphonalMinorPropers":[
@@ -3965,7 +3965,7 @@
 ]
 },
 {
-"PropersID":"St Damasus I, Pope",
+"SanctoralePropersID":"St Damasus I, Pope",
 "PropersDate":"12/11",
 "CommonsID":"Pastors>For a Pope",
 "AntiphonalMinorPropers":[
@@ -3976,7 +3976,7 @@
 ]
 },
 {
-"PropersID":"Our Lady of Guadalupe",
+"SanctoralePropersID":"Our Lady of Guadalupe",
 "PropersDate":"12/12",
 "PropersNote":"USCCB,Feast",
 "AntiphonalMinorPropers":[
@@ -4005,7 +4005,7 @@
 ]
 },
 {
-"PropersID":"St Lucy, Virgin, Martyr",
+"SanctoralePropersID":"St Lucy, Virgin, Martyr",
 "PropersDate":"12/13",
 "PropersNote":"Memorial",
 "CommonsID":"Martyrs>For a Virgin Martyr",
@@ -4018,7 +4018,7 @@
 ]
 },
 {
-"PropersID":"St John of the Cross, Priest, Doctor",
+"SanctoralePropersID":"St John of the Cross, Priest, Doctor",
 "PropersDate":"12/14",
 "PropersNote":"Memorial",
 "AntiphonalMinorPropers":[
@@ -4047,7 +4047,7 @@
 ]
 },
 {
-"PropersID":"St Peter Canisius, Priest, Doctor",
+"SanctoralePropersID":"St Peter Canisius, Priest, Doctor",
 "PropersDate":"12/21",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Doctor",
@@ -4059,7 +4059,7 @@
 ]
 },
 {
-"PropersID":"St John of Kanty, Priest",
+"SanctoralePropersID":"St John of Kanty, Priest",
 "PropersDate":"12/23",
 "CommonsID":"Pastors>For One Pastor",
 "CommonsIDAlt":"Holy Men and Women>For Those Who Practiced Works of Mercy",
@@ -4071,7 +4071,7 @@
 ]
 },
 {
-"PropersID":"St Stephen, the First Martyr",
+"SanctoralePropersID":"St Stephen, the First Martyr",
 "PropersDate":"12/26",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -4099,7 +4099,7 @@
 ]
 },
 {
-"PropersID":"St John, Apostle, Evangelist",
+"SanctoralePropersID":"St John, Apostle, Evangelist",
 "PropersDate":"12/27",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -4127,7 +4127,7 @@
 ]
 },
 {
-"PropersID":"Holy Innocents, Martyrs",
+"SanctoralePropersID":"Holy Innocents, Martyrs",
 "PropersDate":"12/28",
 "PropersNote":"Feast",
 "AntiphonalMinorPropers":[
@@ -4155,7 +4155,7 @@
 ]
 },
 {
-"PropersID":"St Thomas Becket, Bishop, Martyr",
+"SanctoralePropersID":"St Thomas Becket, Bishop, Martyr",
 "PropersDate":"12/29",
 "CommonsID":"Martyrs>For One Martyr",
 "CommonsIDAlt":"Pastors>For a Bishop",
@@ -4167,7 +4167,7 @@
 ]
 },
 {
-"PropersID":"St Sylvester I, Pope",
+"SanctoralePropersID":"St Sylvester I, Pope",
 "PropersDate":"12/31",
 "CommonsID":"Pastors>For a Pope",
 "AntiphonalMinorPropers":[
