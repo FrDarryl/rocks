@@ -1,0 +1,157 @@
+MassesForTheDead:I. For the Funeral>A Outside Easter Time
+MassesForTheDead:I. For the Funeral>B Outside Easter Time
+MassesForTheDead:I. For the Funeral>C During Easter Time
+MassesForTheDead:I. For the Funeral>D Other Prayers for the Funeral Mass
+MassesForTheDead:I. For the Funeral>E For the Funeral of a Baptized Child>1
+MassesForTheDead:I. For the Funeral>E For the Funeral of a Baptized Child>2
+MassesForTheDead:I. For The Funeral>F For the Funeral of a Child Who Died Before Baptism
+MassesForTheDead:II. On the Anniversary>A Outside Easter Time
+MassesForTheDead:II. On the Anniversary>B Outside Easter Time
+MassesForTheDead:II. On the Anniversary>C During Easter Time
+MassesForTheDead:II. On the Anniversary>D Other Prayers on the Anniversary
+MassesForTheDead:II. On the Anniversary>E Other Prayers on the Anniversary
+MassesForTheDead:III. Various Commemorations>A For One Deceased Person
+MassesForTheDead:III. Various Commemorations>B For One Deceased Person>1
+MassesForTheDead:III. Various Commemorations>B For One Deceased Person>2
+MassesForTheDead:III. Various Commemorations>B For One Deceased Person>3
+MassesForTheDead:III. Various Commemorations>B For One Deceased Person>4
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>1
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>2
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>3
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>4
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>5
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>6
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>7
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>8
+MassesForTheDead:III. Various Commemorations>C For Several Deceased Persons or for All the Dead>9
+MassesForTheDead:IV. Various Prayers for the Dead>1. For a Pope>A
+MassesForTheDead:IV. Various Prayers for the Dead>1. For a Pope>B
+MassesForTheDead:IV. Various Prayers for the Dead>1. For a Pope>C
+MassesForTheDead:IV. Various Prayers for the Dead>>2. For a Bishop>A. For a Diocesan Bishop
+MassesForTheDead:IV. Various Prayers for the Dead>>2. For a Bishop>B. For another Bishop
+MassesForTheDead:IV. Various Prayers for the Dead>3. For a Priest>A
+MassesForTheDead:IV. Various Prayers for the Dead>3. For a Priest>B
+MassesForTheDead:IV. Various Prayers for the Dead>4. For a Deacon
+MassesForTheDead:IV. Various Prayers for the Dead>5. For a Religious
+MassesForTheDead:IV. Various Prayers for the Dead>6. For One Who Worked in the Service of the Gospel
+MassesForTheDead:IV. Various Prayers for the Dead>7. For a Young Person
+MassesForTheDead:IV. Various Prayers for the Dead>8. For One Who Suffered a Long Illness
+MassesForTheDead:IV. Various Prayers for the Dead>9. For One Who Died Suddenly
+MassesForTheDead:IV. Various Prayers for the Dead>10. For a Married Couple
+MassesForTheDead:IV. Various Prayers for the Dead>11. For the Priest’s Parents
+MassesForTheDead:IV. Various Prayers for the Dead>12. For Relatives, Friends, and Benefactors
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>1. For the Election or Enrollment of Names
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>2. For the Celebration of the Scrutinies>A For the First Scrutiny
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>2. For the Celebration of the Scrutinies>B For the Second Scrutiny
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>2. For the Celebration of the Scrutinies>C For the Third Scrutiny
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>3. For the Conferral of Baptism>A
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>3. For the Conferral of Baptism>B
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>4. For the Conferral of Confirmation>A
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>4. For the Conferral of Confirmation>B
+RitualMasses:I. For the Conferral of the Sacraments of Christian Initiation>4. For the Conferral of Confirmation>C
+RitualMasses:II. For the Conferral of the Anointing of the Sick
+RitualMasses:III. For the Administering of Viaticum
+RitualMasses:IV. For the Conferral of Holy Orders
+RitualMasses:V. For the Celebration of Marriage>A
+RitualMasses:V. For the Celebration of Marriage>B
+RitualMasses:V. For the Celebration of Marriage>C
+RitualMasses:VI. For the Blessing of an Abbot or an Abbess
+RitualMasses:VII. For The Consecration of Virgins
+RitualMasses:VIII. For Religious Profession
+RitualMasses:IX. For the Institution of Lectors and Acolytes> See RitualMasses "I. For Holy Church>8. For Ministers of the Church"
+RitualMasses:X. For the Dedication of a Church and an Altar
+VariousMasses:I. For Holy Church>1. For the Church>A
+VariousMasses:I. For Holy Church>1. For the Church>B
+VariousMasses:I. For Holy Church>1. For the Church>C
+VariousMasses:I. For Holy Church>1. For the Church>D For the Particular Church
+VariousMasses:I. For Holy Church>1. For the Church>E For the Particular Church
+VariousMasses:I. For Holy Church>2. For the Pope
+VariousMasses:I. For Holy Church>3. For the Bishop
+VariousMasses:I. For Holy Church>4. For the Election of a Pope or a Bishop
+VariousMasses:I. For Holy Church>5. For a Council or a Synod
+VariousMasses:I. For Holy Church>6. For Priests
+VariousMasses:I. For Holy Church>7. For the Priest Himself>A
+VariousMasses:I. For Holy Church>7. For the Priest Himself>B
+VariousMasses:I. For Holy Church>7. For the Priest Himself>C On the Anniversary of His Ordination
+VariousMasses:I. For Holy Church>8. For Ministers of the Church
+VariousMasses:I. For Holy Church>9. For Vocations to Holy Orders
+VariousMasses:I. For Holy Church>10. For the Laity
+VariousMasses:I. For Holy Church>11. On the Anniversaries of Marriage>A On Any Anniversary
+VariousMasses:I. For Holy Church>11. On the Anniversaries of Marriage>B On the Twenty-Fifth Anniversary
+VariousMasses:I. For Holy Church>11. On the Anniversaries of Marriage>C On the Fiftieth Anniversary
+VariousMasses:I. For Holy Church>12. For the Family
+VariousMasses:I. For Holy Church>13. For Religious>A
+VariousMasses:I. For Holy Church>13. For Religious>B On the Twenty-Fifth or Fiftieth Anniversary of Religious Profession
+VariousMasses:I. For Holy Church>14. For Vocations to Religious Life
+VariousMasses:I. For Holy Church>15. For Promoting Harmony
+VariousMasses:I. For Holy Church>16. For Reconciliation
+VariousMasses:I. For Holy Church>17. For the Unity of Christians>A
+VariousMasses:I. For Holy Church>17. For the Unity of Christians>B
+VariousMasses:I. For Holy Church>17. For the Unity of Christians>C
+VariousMasses:I. For Holy Church>18. For the Evangelization of Peoples>A
+VariousMasses:I. For Holy Church>18. For the Evangelization of Peoples>B
+VariousMasses:I. For Holy Church>19. For Persecuted Christians
+VariousMasses:I. For Holy Church>20. For a Spiritual or Pastoral Gathering
+VariousMasses:II. For Civil Needs>21. For the nation or State
+VariousMasses:II. For Civil Needs>22. For Those in Public Office
+VariousMasses:II. For Civil Needs>23. For a Governing Assembly
+VariousMasses:II. For Civil Needs>24. For the head of state or Ruler
+VariousMasses:II. For Civil Needs>25. At the Beginning of the Civil Year
+VariousMasses:II. For Civil Needs>26. For the Sanctification of Human Labor>A
+VariousMasses:II. For Civil Needs>26. For the Sanctification of Human Labor>B
+VariousMasses:II. For Civil Needs>27. At Seedtime>A
+VariousMasses:II. For Civil Needs>27. At Seedtime>B
+VariousMasses:II. For Civil Needs>28. After the Harvest
+VariousMasses:II. For Civil Needs>29. For the Progress of Peoples
+VariousMasses:II. For Civil Needs>30. For the Preservation of Peace and Justice>A
+VariousMasses:II. For Civil Needs>30. For the Preservation of Peace and Justice>B
+VariousMasses:II. For Civil Needs>31. In Time of War or Civil Disturbance
+VariousMasses:II. For Civil Needs>32. For Refugees and Exiles
+VariousMasses:II. For Civil Needs>33. In Time of Famine>A
+VariousMasses:II. For Civil Needs>33. In Time of Famine>B
+VariousMasses:II. For Civil Needs>34. In Time of Earthquake
+VariousMasses:II. For Civil Needs>35. For Rain
+VariousMasses:II. For Civil Needs>36. For Fine Weather
+VariousMasses:II. For Civil Needs>37. For an End to Storms
+VariousMasses:III. For Various Occasions>38. For the Forgiveness of Sins>A
+VariousMasses:III. For Various Occasions>38. For the Forgiveness of Sins>B
+VariousMasses:III. For Various Occasions>39. For Chastity
+VariousMasses:III. For Various Occasions>40. For Charity
+VariousMasses:III. For Various Occasions>41. For Relatives and Friends
+VariousMasses:III. For Various Occasions>42. For our Oppressors
+VariousMasses:III. For Various Occasions>43. For Those Held in Captivity
+VariousMasses:III. For Various Occasions>44. For those in prison
+VariousMasses:III. For Various Occasions>45. For the Sick
+VariousMasses:III. For Various Occasions>46. For the Dying
+VariousMasses:III. For Various Occasions>47. For the Grace of a Happy Death
+VariousMasses:III. For Various Occasions>48. In Any Need>A
+VariousMasses:III. For Various Occasions>48. In Any Need>B
+VariousMasses:III. For Various Occasions>48. In Any Need>C
+VariousMasses:III. For Various Occasions>48. For the Gift of Human Life>A
+VariousMasses:III. For Various Occasions>48. For the Gift of Human Life>B
+VariousMasses:III. For Various Occasions>49. For Giving Thanks to God>A
+VariousMasses:III. For Various Occasions>49. For Giving Thanks to God>B
+VotiveMasses:1. The Most Holy Trinity
+VotiveMasses:2. The Mercy of God
+VotiveMasses:3. Our Lord Jesus Christ, the Eternal High Priest
+VotiveMasses:4. The Mystery of the Holy Cross
+VotiveMasses:5. The Most Holy Eucharist
+VotiveMasses:6. The Most Holy Name of Jesus
+VotiveMasses:7. The Most Precious Blood of our Lord Jesus Christ
+VotiveMasses:8. The Most Sacred Heart of Jesus
+VotiveMasses:9. The Holy Spirit>A
+VotiveMasses:9. The Holy Spirit>B
+VotiveMasses:9. The Holy Spirit>C
+VotiveMasses:10. The Blessed Virgin Mary>A See Common of BVM
+VotiveMasses:10. The Blessed Virgin Mary>B Our Lady, Mother of the Church
+VotiveMasses:10. The Blessed Virgin Mary>C The Most Holy Name of Mary
+VotiveMasses:10. The Blessed Virgin Mary>D Our Lady, Queen of Apostles
+VotiveMasses:11. The Holy Angels
+VotiveMasses:12. Saint John the Baptist
+VotiveMasses:13. Saint Joseph
+VotiveMasses:14. All the Holy Apostles
+VotiveMasses:15. Saints Peter and Paul, Apostles
+VotiveMasses:16. Saint Peter, Apostle
+VotiveMasses:17. Saint Paul, Apostle
+VotiveMasses:18. One Holy Apostle
+VotiveMasses:19. All Saints
